@@ -137,7 +137,7 @@ python3 scripts/verify_release_notes.py --tag vX.Y.Z
 python3 scripts/test_verify_release_notes.py
 ```
 
-Release 的标题就是标签本身，例如 `v0.3.0`，不添加产品名前缀。
+Release 的标题就是标签本身，例如 `v0.3.1`，不添加产品名前缀。
 
 ## 共享契约
 
