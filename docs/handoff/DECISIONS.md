@@ -4,7 +4,7 @@
 
 需要指向本机路径、设备信息、凭据位置或自建服务地址时，只写「见本地 `AGENTS.md`」，把具体值留在那个不入库的文件里。
 
-本项目与主体仓库 `SyncClipboard-Kotlin` 同属一个项目族，共用同一套项目约定。发布流程、说明格式、中文排版、构建工具链、页面转场等通用决策记在主体仓库的 `docs/handoff/DECISIONS.md`，这里只记本仓库特有的部分。
+本项目与主体仓库 `SyncClipboard-Kotlin` 同属一个项目族，共用同一套项目约定。发布流程、说明格式、中文排版、构建工具链等通用决策记在 [主体交接文档](https://github.com/huaxianyan/SyncClipboard-Kotlin/blob/master/docs/handoff/DECISIONS.md)，这里只记本仓库特有的部分。
 
 ## 仓库定位
 

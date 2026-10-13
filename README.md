@@ -48,6 +48,10 @@
 
 完整设计见 [架构说明](docs/architecture.md)，构建与发布见 [构建与发布](docs/build.md)。
 
+## 开发交接
+
+本仓库的版本、验证边界和待办见 [长期决策](docs/handoff/DECISIONS.md) 与 [日期记录](docs/handoff/)。共用工程决策只在 [主体交接文档](https://github.com/huaxianyan/SyncClipboard-Kotlin/blob/master/docs/handoff/DECISIONS.md) 维护。
+
 ## 许可证
 
 本项目采用 [GNU General Public License v3.0](LICENSE)（`GPL-3.0-only`）发布。
